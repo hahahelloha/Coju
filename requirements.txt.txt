@@ -1,0 +1,6 @@
+streamlit==1.64.0
+streamlit-folium==0.27.4
+folium==0.20.0
+requests==2.34.2
+openai==3.19.2
+
